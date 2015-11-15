@@ -2,6 +2,8 @@ vim-ctrlp-ros
 ================================
 [ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) Extension for ROS.
 
+Only tested in Neovim v0.1.0.
+
 Basic Usage
 --------------------------------
 
