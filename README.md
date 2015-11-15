@@ -28,7 +28,7 @@ Installation
 --------------------------------
 With [vim-plug](//github.com/junegunn/vim-plug), put following line to yor config:
 
-  Plug 'akio/vim-ctrlp-ros'
+    Plug 'akio/vim-ctrlp-ros'
 
 Or you might be able to use other plugin managers.
 
