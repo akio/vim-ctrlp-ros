@@ -1,0 +1,5 @@
+command! CtrlPRosLs call ctrlp#init(ctrlp#rosls#id())
+command! CtrlPRosCd call ctrlp#init(ctrlp#roscd#id())
+command! CtrlPRosEd call ctrlp#init(ctrlp#rosed#id())
+command! CtrlPRosMsg call ctrlp#init(ctrlp#rosmsg#id())
+command! CtrlPRosSrv call ctrlp#init(ctrlp#rossrv#id())
